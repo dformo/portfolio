@@ -42,6 +42,7 @@ header {
 .nav-links a:hover {
     color: #ffffff;
     border-bottom-color: #ffffff;
+    text-decoration: none;
 }
 
 .profile-header {
@@ -72,7 +73,6 @@ header {
 }
 
 .job-card:hover {
-    transform: translateY(-4px);
     box-shadow: 0 12px 24px rgba(42, 82, 152, 0.12);
     border-left-color: #1e3c72;
 }
